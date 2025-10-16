@@ -49,5 +49,45 @@ This repository is a collection of **all the React projects I’ve built** while
 
 1. **Clone the repository** (SSH recommended for ease of use):
 
-   ```bash
+   
    git clone git@github.com:kumaru-singh/React-Library.git
+
+   Or using HTTPS:
+
+git clone https://github.com/kumaru-singh/React-Library.git
+
+
+Navigate to a project folder:
+
+cd React-Library/01-pure-react/final
+
+
+Install dependencies:
+
+npm install
+
+
+Start the project:
+
+npm start
+
+
+Compare starter code and final code to see improvements and fixes you can learn from.
+
+💡 Notes
+
+Projects reflect my personal learning journey, not copied from any course.
+
+Use these projects for learning, experimentation, or inspiration.
+
+Some folders may include additional notes showing my trial-and-error process, insights, and improvements.
+
+Projects are written in JavaScript, React, CSS, and HTML, with a few using Next.js.
+
+🔗 Resources & References
+
+React Documentation
+
+GitHub Repository
+
+Made with ❤️ and React.js by Rahul Singh
