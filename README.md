@@ -1,10 +1,10 @@
-````markdown
 # React-Library
 
 Welcome to **React-Library**! 🚀  
 
 This repository is a collection of **all the React projects I’ve built** while learning and experimenting with different concepts. It showcases my **progress from simple exercises to more advanced applications**, including state management, hooks, routing, API integration, and Next.js. Each project contains both my **starter code** and **final version**, so you can see the evolution of my work and how I solved problems along the way.
 
+---
 
 ## 📂 Folder Structure & Projects Overview
 
@@ -48,56 +48,6 @@ This repository is a collection of **all the React projects I’ve built** while
 ## 🛠 How to Use This Repository
 
 1. **Clone the repository** (SSH recommended for ease of use):
-   
+
+   ```bash
    git clone git@github.com:kumaru-singh/React-Library.git
-
-
-Or using HTTPS:
-
-
-git clone https://github.com/kumaru-singh/React-Library.git
-```
-
-2. **Navigate to a project folder**:
-
-   ```bash
-   cd React-Library/01-pure-react/final
-   ```
-
-3. **Install dependencies**:
-
-   ```bash
-   npm install
-   ```
-
-4. **Start the project**:
-
-   ```bash
-   npm start
-   ```
-
-5. Compare **starter code** and **final code** to see improvements and fixes you can learn from.
-
----
-
-## 💡 Notes
-
-* Projects reflect **my personal learning journey**, not copied from any course.
-* Use these projects for **learning, experimentation, or inspiration**.
-* Some folders may include **additional notes** showing my trial-and-error process, insights, and improvements.
-* Projects are written in **JavaScript, React, CSS, and HTML** with a few using **Next.js**.
-
----
-
-## 🔗 Resources & References
-
-* [React Documentation](https://reactjs.org/)
-* [GitHub Repository](https://github.com/kumaru-singh/React-Library)
-
----
-
-Made with ❤️ and React.js by **Rahul Singh**
-
-```
-
-```
