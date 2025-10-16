@@ -5,7 +5,6 @@ Welcome to **React-Library**! 🚀
 
 This repository is a collection of **all the React projects I’ve built** while learning and experimenting with different concepts. It showcases my **progress from simple exercises to more advanced applications**, including state management, hooks, routing, API integration, and Next.js. Each project contains both my **starter code** and **final version**, so you can see the evolution of my work and how I solved problems along the way.
 
----
 
 ## 📂 Folder Structure & Projects Overview
 
@@ -49,13 +48,13 @@ This repository is a collection of **all the React projects I’ve built** while
 ## 🛠 How to Use This Repository
 
 1. **Clone the repository** (SSH recommended for ease of use):
-   ```bash
+   
    git clone git@github.com:kumaru-singh/React-Library.git
-````
+
 
 Or using HTTPS:
 
-```bash
+
 git clone https://github.com/kumaru-singh/React-Library.git
 ```
 
